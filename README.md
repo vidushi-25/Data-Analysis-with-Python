@@ -11,7 +11,7 @@ As part of these prjects, I have documented each step for :
 
 ##GeeksforGeeks Articles Insights
 
-<img width="603" alt="Screenshot 2024-02-10 at 8 16 12 PM" src="https://github.com/vidushi-25/Data-Analysis-with-Python/assets/154007399/289f3d3d-82a8-48e4-ac6b-5b5da54b3155">
+
 
 <img width="656" alt="Screenshot 2024-02-10 at 9 28 54 PM" src="https://github.com/vidushi-25/Data-Analysis-with-Python/assets/154007399/c0db8490-5dba-4728-8225-89dc63f3b2f2">
 
