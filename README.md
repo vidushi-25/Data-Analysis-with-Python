@@ -8,6 +8,28 @@ As part of these prjects, I have documented each step for :
 3. Data Visualization
 
 
+## Covid-19 Data Analysis
+
+
+<img width="590" alt="Screenshot 2024-02-16 at 10 42 02 PM" src="https://github.com/vidushi-25/Data-Analysis-with-Python/assets/154007399/6538b58b-4b65-4b8a-9ef8-f30b38ce16f8">
+
+# GDP vs Maximum Infection Rate
+
+<img width="590" alt="Screenshot 2024-02-16 at 10 43 49 PM" src="https://github.com/vidushi-25/Data-Analysis-with-Python/assets/154007399/8429fc1f-d2df-483d-a822-6af133938fd1">
+
+# Social support vs Max Infection Rate
+
+<img width="590" alt="Screenshot 2024-02-16 at 10 44 33 PM" src="https://github.com/vidushi-25/Data-Analysis-with-Python/assets/154007399/cf1d35e3-5061-4054-aeca-f56f2e04281f">
+
+# Healthy life expectancy vs Max Infection Rate
+
+<img width="590" alt="Screenshot 2024-02-16 at 10 45 10 PM" src="https://github.com/vidushi-25/Data-Analysis-with-Python/assets/154007399/f0ed5976-36fb-4e98-988d-844f34dc4b4e">
+
+# Freedom to make life choices vs Max Infection Rate
+
+<img width="590" alt="Screenshot 2024-02-16 at 10 45 32 PM" src="https://github.com/vidushi-25/Data-Analysis-with-Python/assets/154007399/c1291680-3eb2-4a11-8d17-3431353233f6">
+
+
 
 ## GeeksforGeeks Articles Insights
 
